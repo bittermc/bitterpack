@@ -1,12 +1,11 @@
 # bitter!pack
 
 bitter!mc's modpack<br>
-install modpack by downloading and executing a very sussy script that doesnt even exist yet lol
+download mods by downloading and executing a very sussy script
 
 ### Prerequisites
 - A console that can run bash
 - wget
-- jq
 - more to add here lol
 
 ### LFAQ

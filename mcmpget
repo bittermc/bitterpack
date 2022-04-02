@@ -1,0 +1,6 @@
+#!/bin/bash
+cat modlist.txt | while read line; do
+	echo $line | if [[ "`awk '{print $1}'`" == "$1" ]]; then
+		echo $line | awk '{print $3}' | xargs wget -nv & disown
+	fi
+done

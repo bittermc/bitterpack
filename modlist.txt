@@ -1,0 +1,28 @@
+main fabric-api				https://cdn.modrinth.com/data/P7dR8mSH/versions/0.48.0+1.18.2/fabric-api-0.48.0%2B1.18.2.jar
+main modmenu				https://cdn.modrinth.com/data/mOgUt4GM/versions/3.1.0/modmenu-3.1.0.jar
+main inventoryprofilesnext	https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.3.5/InventoryProfilesNext-fabric-1.18.2-1.3.5.jar
+main immersive-weathering	https://www.curseforge.com/minecraft/mc-mods/immersive-weathering-fabric/download/3728301
+main wthit					https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.8.0/wthit-fabric-4.8.0.jar
+main antighost				https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.18.2-fabric0.47.10-1.1.4/antighost-1.18.2-fabric0.47.10-1.1.4.jar
+main clickthrough			https://www.modrinth.com/mod/clickthrough/version/1.18.2-fabric0.47.10-0.4
+
+client lambdynamiclights	https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar
+client extrasounds			https://cdn.modrinth.com/data/uPWCQrVL/versions/2.2.1/extrasounds-2.2.1%2B1.18.2.jar
+client fabrishot			https://cdn.modrinth.com/data/3qsfQtE9/versions/1.7.0/fabrishot-1.7.0.jar
+
+optimization sodium				https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar
+optimization sodium-extra		https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.2/sodium-extra-mc1.18.2-0.4.2.jar
+optimization lithium			https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar
+optimization starlight			https://cdn.modrinth.com/data/H8CaAYZC/versions/1.0.2+1.18.2/starlight-1.0.2+fabric.89b8d9f.jar
+optimization ferritcore			https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.0/ferritecore-4.2.0-fabric.jar
+optimization alternate-current	https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.1.0/alternate-current-mc1.18-1.1.0.jar
+optimization lazydfu 			https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
+optimization krypton			https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.9/krypton-0.1.9.jar
+optimization cull-leaves		https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2/cullleaves-2.3.2.jar
+optimization dynamic-fps		https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar
+
+server lithium				https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar
+server ferritcore			https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.0/ferritecore-4.2.0-fabric.jar
+server alternate-current	https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.1.0/alternate-current-mc1.18-1.1.0.jar
+server lazydfu 				https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar
+server krypton				https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.9/krypton-0.1.9.jar
