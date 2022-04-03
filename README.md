@@ -5,8 +5,8 @@ ifritserv.zapto.org:1986<br>
 ### Prerequisites
  • A bash shell<br>
    *For Windows, you can use [Git Bash](https://git-scm.com) or [MSYS2](https://www.msys2.org)*<br>
- • wget<br>
-   *For Windows, download from [eternallybored](https://eternallybored.org/misc/wget/), and put it in `C:Program Files\Git\mingw64\bin`*
+ • aria2<br>
+   *For Windows, download from [GitHub](https://github.com/aria2/aria2/releases), and put it in s`<Git or MSYS2 folder>\mingw64\bin`*
 
 ### LFAQ
 **Q: What is bitter!pack?**<br>
