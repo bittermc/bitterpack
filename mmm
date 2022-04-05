@@ -1,0 +1,41 @@
+#!/bin/bash
+# aria2c -c --download-result=hide https://raw.githubusercontent.com/bittermc/modpack/main/modslist.txt && echo Updated mods list.
+
+if [[ "$1" == "help" || -z "$1" ]]; then
+	echo
+	echo -e "  ┏┳┓┏┳┓┏┳┓v1.0 (22/4/5)"
+	echo -e "  minecraft modpack manager by \e[1;34mma\e[39mci\e[91mmas\e[0m"
+	echo -e "  Usage: ./mmm \e[2m[option] ...\e[0m"
+	echo
+	echo	"  Mods are read from modslist.txt"
+	echo
+	echo -e "  help  Shows this message"
+	echo -e "  get   Downloads mods from a category"
+	echo -e "   ↳ \e[2m<category>\e[0m  Selected category to download mods"
+	echo -e "   ↳ \e[2m<dir>\e[0m       Where the mods will be stored in. Leaving it empty will download mods where mmm is located"
+	echo
+	echo -e "  list  Lists mods from a category"
+	echo -e "   ↳ \e[2m<category>\e[0m  Selected category to list mods"
+	echo
+exit
+fi
+
+if [[ "$1" == "get" && -n "$2" ]]; then
+	cat modslist.txt | while read line; do
+		if [[ "`echo $line | awk '{print $1}' | awk -F "/" '{print}' | grep -w "$2"`" == *"$2"* ]]; then
+			aria2c -c --download-result=hide -d "$3" -o "$(echo $line | awk '{print $2}').jar" "$(echo $line | awk '{print $3}')" & disown
+		fi
+	done
+exit
+fi
+
+if [[ "$1" == "list" && -n "$2" ]]; then
+	cat modslist.txt | while read line; do
+		if [[ "`echo $line | awk '{print $1}' | awk -F "/" '{print}' | grep -w "$2"`" == *"$2"* ]]; then
+			echo -e "$(echo $line | awk '{print $2}') \e[2m< $(echo $line | awk '{print $3}')\e[0m"
+		fi
+	done
+exit
+fi
+
+echo That option doesnt exist. Please check \`./mmm help\` for more options.
