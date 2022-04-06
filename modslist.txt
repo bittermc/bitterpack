@@ -1,21 +1,24 @@
 // required
-client/main/server fabric-api						https://cdn.modrinth.com/data/P7dR8mSH/versions/0.48.0+1.18.2/fabric-api-0.48.0%2B1.18.2.jar
-client/main/server expanded-storage					https://cdn.modrinth.com/data/psjeHi3j/versions/7.3.11+1.18.2-fabric/expandedstorage-7.3.11%2B1.18.2.jar
-client/main/server tax-free-levels					https://cdn.modrinth.com/data/jCBrrLTs/versions/1.3/TaxFreeLevels-1.3.jar
-client/main/server ninjaphenix-container-library	https://cdn.modrinth.com/data/TIhTvPdy/versions/1.3.0+1.18-fabric/ninjaphenix-container-library-1.3.0%2B1.18-fabric.jar
+client/main/server	fabric-api						https://cdn.modrinth.com/data/P7dR8mSH/versions/0.48.0+1.18.2/fabric-api-0.48.0%2B1.18.2.jar
+client/main/server	expanded-storage				https://cdn.modrinth.com/data/psjeHi3j/versions/7.3.11+1.18.2-fabric/expandedstorage-7.3.11%2B1.18.2.jar
+client/main/server	staffofbuilding					https://raw.githubusercontent.com/bittermc/modpack/main/meds/staffofbuilding.jar
+client/main/server	tax-free-levels					https://cdn.modrinth.com/data/jCBrrLTs/versions/1.3/TaxFreeLevels-1.3.jar
+client/main/server	ninjaphenix-container-library	https://cdn.modrinth.com/data/TIhTvPdy/versions/1.3.0+1.18-fabric/ninjaphenix-container-library-1.3.0%2B1.18-fabric.jar
 // client
-client/main/server visual-overhaul			https://cdn.modrinth.com/data/YQnwl5Vv/versions/4.1.0/visualoverhaul-4.1.0.jar
-client/main/server appleskin				https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.0/appleskin-fabric-mc1.18.2-2.4.0.jar
-client/main		   inventory-profiles-next	https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.3.5/InventoryProfilesNext-fabric-1.18.2-1.3.5.jar
-client/main		   lambdynamiclights		https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar
-client/main		   presence-footsteps		https://cdn.modrinth.com/data/rcTfTZr3/versions/1.5.0/PresenceFootsteps-1.5.0.jar
-client/main		   extrasounds				https://cdn.modrinth.com/data/uPWCQrVL/versions/2.2.1/extrasounds-2.2.1%2B1.18.2.jar
-client/main		   visuality				https://cdn.modrinth.com/data/rI0hvYcd/versions/0.4.2/visuality-0.4.2.jar
-client/main		   clickthrough				https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.18.2-fabric0.47.10-0.4/clickthrough-1.18.2-fabric0.47.10-0.4.jar
-client/main		   wthit 					https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.8.1/wthit-fabric-4.8.1.jar
-client/main		   notenoughcrashes			https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.18.2-fabric/notenoughcrashes-4.1.4%2B1.18.2-fabric.jar
-client/main		   antighost				https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.18.2-fabric0.47.10-1.1.4/antighost-1.18.2-fabric0.47.10-1.1.4.jar
-client/main		   modmenu					https://cdn.modrinth.com/data/mOgUt4GM/versions/3.1.0/modmenu-3.1.0.jar
+client/main			journeymap				https://raw.githubusercontent.com/bittermc/modpack/main/meds/journeymap.jar
+client/main/server	visual-overhaul			https://cdn.modrinth.com/data/YQnwl5Vv/versions/4.1.0/visualoverhaul-4.1.0.jar
+client/main/server	appleskin				https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.0/appleskin-fabric-mc1.18.2-2.4.0.jar
+client/main			inventory-profiles-next	https://cdn.modrinth.com/data/O7RBXm3n/versions/fabric-1.18.2-1.3.5/InventoryProfilesNext-fabric-1.18.2-1.3.5.jar
+client/main			lambdynamiclights		https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0+1.17/lambdynamiclights-2.1.0+1.17.jar
+client/main			presence-footsteps		https://cdn.modrinth.com/data/rcTfTZr3/versions/1.5.0/PresenceFootsteps-1.5.0.jar
+client/main			extrasounds				https://cdn.modrinth.com/data/uPWCQrVL/versions/2.2.1/extrasounds-2.2.1%2B1.18.2.jar
+client/main			visuality				https://cdn.modrinth.com/data/rI0hvYcd/versions/0.4.2/visuality-0.4.2.jar
+client/main			fabulousclouds			https://github.com/misterslime/fabulousclouds-fabric/releases/download/v0.3.0/fabulousclouds-0.3.0.jar
+client/main			clickthrough			https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.18.2-fabric0.47.10-0.4/clickthrough-1.18.2-fabric0.47.10-0.4.jar
+client/main			wthit 					https://cdn.modrinth.com/data/6AQIaxuO/versions/fabric-4.8.1/wthit-fabric-4.8.1.jar
+client/main			antighost				https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.18.2-fabric0.47.10-1.1.4/antighost-1.18.2-fabric0.47.10-1.1.4.jar
+client/main			notenoughcrashes		https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.18.2-fabric/notenoughcrashes-4.1.4%2B1.18.2-fabric.jar
+client/main			modmenu					https://cdn.modrinth.com/data/mOgUt4GM/versions/3.1.0/modmenu-3.1.0.jar
 
 opt fabrishot https://cdn.modrinth.com/data/3qsfQtE9/versions/1.7.0/fabrishot-1.7.0.jar
 
@@ -30,14 +33,17 @@ client/optif		cull-leaves		https://cdn.modrinth.com/data/GNxdLCoP/versions/2.3.2
 client/optif		better-beds		https://cdn.modrinth.com/data/kKwy3HU9/versions/1.2.0/betterbeds-1.2.0.jar
 client/optif		dynamic-fps		https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar
 
-server		starlight				https://cdn.modrinth.com/data/H8CaAYZC/versions/1.0.2+1.18.2/starlight-1.0.2+fabric.89b8d9f.jar
-server		immersivecursedness		https://cdn.modrinth.com/data/lyiXgXNm/versions/1.4.5/immersive-cursedness-1.4.5.jar
-server		repurposed-structures	https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.1+1.18.2/repurposed_structures_fabric-4.1.1%2B1.18.2.jar
-server		mcdiscordchat			https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.18/MCDiscordChat-1.18-2.0.0-alpha.1.jar
-server		alternate-current		https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.1.0/alternate-current-mc1.18-1.1.0.jar
-server		universal-graves		https://cdn.modrinth.com/data/yn9u3ypm/versions/2.0.0+1.18.2/graves-2.0.0%2B1.18.2.jar
-server		simpler-auth			https://cdn.modrinth.com/data/TYaqEeAP/versions/1.5.0/SimplerAuth-1.5.0.jar
-server/main fabrictailor			https://cdn.modrinth.com/data/g8w1NapE/versions/1.8.0+1.18.2/fabrictailor-1.8.0.jar
-server		armorstandeditor		https://cdn.modrinth.com/data/Ef9ZREBZ/versions/1.3.2+1.18.2/armor-stand-editor-1.3.2%2B1.18.2.jar
-server		nbt-deadlock-be-gone	https://cdn.modrinth.com/data/HMNV4z01/versions/2.0.0+1.18.2-rc1_fabric/feature_nbt_deadlock_be_gone_fabric-2.0.0%2B1.18.2-rc1.jar
-server		cloth-config			https://raw.githubusercontent.com/bittermc/modpack/main/meds/cloth-config.jar
+client/main/server fabrictailor	https://cdn.modrinth.com/data/g8w1NapE/versions/1.8.0+1.18.2/fabrictailor-1.8.0.jar
+
+server starlight				https://cdn.modrinth.com/data/H8CaAYZC/versions/1.0.2+1.18.2/starlight-1.0.2+fabric.89b8d9f.jar
+server immersivecursedness		https://cdn.modrinth.com/data/lyiXgXNm/versions/1.4.5/immersive-cursedness-1.4.5.jar
+server repurposed-structures	https://cdn.modrinth.com/data/muf0XoRe/versions/4.1.1+1.18.2/repurposed_structures_fabric-4.1.1%2B1.18.2.jar
+server mcdiscordchat			https://cdn.modrinth.com/data/D0sHdnXY/versions/2.0.0-alpha.1_1.18/MCDiscordChat-1.18-2.0.0-alpha.1.jar
+server alternate-current		https://cdn.modrinth.com/data/r0v8vy1s/versions/mc1.18-1.1.0/alternate-current-mc1.18-1.1.0.jar
+server universal-graves			https://cdn.modrinth.com/data/yn9u3ypm/versions/2.0.0+1.18.2/graves-2.0.0%2B1.18.2.jar
+server simpler-auth				https://cdn.modrinth.com/data/TYaqEeAP/versions/1.5.0/SimplerAuth-1.5.0.jar
+server armorstandeditor			https://cdn.modrinth.com/data/Ef9ZREBZ/versions/1.3.2+1.18.2/armor-stand-editor-1.3.2%2B1.18.2.jar
+server nbt-deadlock-be-gone		https://cdn.modrinth.com/data/HMNV4z01/versions/2.0.0+1.18.2-rc1_fabric/feature_nbt_deadlock_be_gone_fabric-2.0.0%2B1.18.2-rc1.jar
+server cloth-config				https://raw.githubusercontent.com/bittermc/modpack/main/meds/cloth-config.jar
+
+

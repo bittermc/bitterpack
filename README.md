@@ -1,21 +1,26 @@
-<p align=center><img src="https://i.imgur.com/8IE4b3i.png"><br>
-ifritserv.zapto.org:1986<br>
-<a src="https://discord.gg/BVCx4jYafb">Discord</a><p>
 
-bitter!mc's modpack. Use mmm to install mods.
+
+<p align=center>
+<img src="https://i.imgur.com/8IE4b3i.png"><br>
+bitter!mc's modpack. Use mmm to install mods.<br><br>
+ifritserv.zapto.org:1986<br>
+<a href="https://discord.gg/BVCx4jYafb"><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="32" alt="Discord server"></a>
+</p>
 
 ### Prerequisites
  • A bash shell<br>
    *For Windows, you can use [Git Bash](https://git-scm.com), [MSYS2](https://www.msys2.org), or [WSL (not tested)](https://docs.microsoft.com/en-us/windows/wsl/about)*<br>
  • aria2<br>
-   *For Git Bash, download from [GitHub](https://github.com/aria2/aria2/releases), and put it in `<your Git folder>\mingw64\bin`
-   For MSYS2, same process as Git Bash (not tested),  however you can also install it using pacman.*
+   *For Git Bash, download from [GitHub](https://github.com/aria2/aria2/releases), extract it, and put aria2c.exe in `<your Git folder>\mingw64\bin`<br>
+   For MSYS2, same process as Git Bash but put it in `<your MSYS2 folder>\usr\bin`*
+
 
 ### Usage
 run `./mmm` for info
 
 ### Mods
-If you want to download `main`, `optif`, and `opt` in one go instead of running the script thrice, use `client` as category.
+ **Client `(client)`**<br>
+  This category exists so you can download the mods in `main`, `optif`, and `opt` in one go without having to run the script thrice.
 
  **Main `(main)`**<br>
   mods here

@@ -3,19 +3,19 @@
 
 if [[ "$1" == "help" || -z "$1" ]]; then
 	echo
-	echo -e "  ┏┳┓┏┳┓┏┳┓v1.0 (22/4/5)"
-	echo -e "  minecraft modpack manager by \e[1;34mma\e[39mci\e[91mmas\e[0m"
+	echo -e "  \e[34m┌┬┐\e[97m┌┬┐\e[91m┌┬┐\e[0mv1.0 (22/4/6)"
+	echo -e "  minecraft modpack manager by \e[34mma\e[39mci\e[91mmas\e[0m"
 	echo -e "  Usage: ./mmm \e[2m[option] ...\e[0m"
 	echo
 	echo	"  Mods are read from modslist.txt"
 	echo
 	echo -e "  help  Shows this message"
 	echo -e "  get   Downloads mods from a category"
-	echo -e "   ↳ \e[2m<category>\e[0m  Selected category to download mods"
-	echo -e "   ↳ \e[2m<dir>\e[0m       Where the mods will be stored in. Leaving it empty will download mods where mmm is located"
+	echo -e "   > \e[2m<category>\e[0m  Category to download mods from"
+	echo -e "   > \e[2m<dir>\e[0m       Where the mods will be stored in. Leaving it empty will download mods where mmm is located"
 	echo
 	echo -e "  list  Lists mods from a category"
-	echo -e "   ↳ \e[2m<category>\e[0m  Selected category to list mods"
+	echo -e "   > \e[2m<category>\e[0m  Category to list mods from"
 	echo
 exit
 fi
